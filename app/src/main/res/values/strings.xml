@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheOtherGuys</string>
+    <string name="hello_android">The Other Guys</string>
+    <string name="button_signUp">Sign Up</string>
+    <string name="button_login">Login</string>
+    <string name="signup_form">Sign Up</string>
+    <string name="signup_name">Name</string>
+</resources>
